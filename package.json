@@ -1,0 +1,25 @@
+{
+  "name": "revas-bytegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-loader": "^8.0.6",
+    "file-loader": "^5.1.0",
+    "image-webpack-loader": "^6.0.0",
+    "react": "^16.12.0",
+    "revas": "^0.0.18",
+    "typescript": "^3.8.2",
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
